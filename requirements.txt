@@ -98,7 +98,7 @@ Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1610659158978/work
 mamba @ file:///home/conda/feedstock_root/build_artifacts/mamba_1624654590042/work
 Markdown==3.4.1
 MarkupSafe==2.1.1
-matplotlib==3.9.4
+matplotlib==3.8.4
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1618935594181/work
 mistune @ file:///home/conda/feedstock_root/build_artifacts/mistune_1624941317779/work
 murmurhash==1.0.8
